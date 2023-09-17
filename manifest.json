@@ -1,0 +1,51 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Otomasyon Eklentisi",
+  "version": "1.0",
+  "description": "Amazon'da otomatik JavaScript çalıştırma",
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": [
+    "activeTab",
+    "storage",
+    "webNavigation",
+    "tabs",
+    "downloads",
+    "scripting"
+  ],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48" : "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.com/*",
+        "https://www.amazon.com.mx/*",
+        "https://www.amazon.com.be/*",
+        "https://www.amazon.ca/*",
+        "https://www.amazon.sg/*",
+        "https://www.amazon.ae/*",
+        "https://www.amazon.au/*",
+        "https://www.amazon.de/*",
+        "https://www.amazon.fr/*",
+        "https://www.amazon.es/*",
+        "https://www.amazon.it/*",
+        "https://www.amazon.nl/*",
+        "https://www.amazon.sa/*",
+        "https://www.amazon.co.jp/*",
+        "https://www.amazon.co.uk/*",
+        "https://www.amazon.com.tr/*"
+      ],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
