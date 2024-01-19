@@ -1,0 +1,972 @@
+1694964242370	geckodriver	INFO	Listening on 127.0.0.1:59229
+1694964245418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofile5jalNr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694964246068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694964246196	Marionette	INFO	Listening on port 59240
+WebDriver BiDi listening on ws://127.0.0.1:59230
+Read port: 59240
+1694964246517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59230/devtools/browser/2c6b7d80-6676-4d30-9d43-07faf3824c36
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6765: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694964294956	geckodriver	INFO	Listening on 127.0.0.1:59419
+1694964297999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofileLXFQRq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694964298483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694964298637	Marionette	INFO	Listening on port 59428
+WebDriver BiDi listening on ws://127.0.0.1:59420
+Read port: 59428
+1694964299088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59420/devtools/browser/d2158e6a-6823-474d-b265-869a04fd9212
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6796: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694964335226	Marionette	INFO	Stopped listening on port 59428
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 186: Script terminated by timeout at:
+t[_SS$[0]][_SS$[1]]/G@https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets:186:515
+
+Dynamically enable window occlusion 1
+1694964378353	geckodriver	INFO	Listening on 127.0.0.1:59651
+1694964381391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofileyNOvGt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694964381819	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694964381932	Marionette	INFO	Listening on port 59663
+Read port: 59663
+WebDriver BiDi listening on ws://127.0.0.1:59652
+1694964382146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59652/devtools/browser/d16901ac-5bb5-4599-8953-fa9876ef7c3e
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5595: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694964493279	Marionette	INFO	Stopped listening on port 59663
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71zzjyvEIHL.js,018jv7vREZL.js,01GoPxz8E9L.js,01eOvPdxG7L.js,71RDRWJQQQL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21rDHgaooIL.js,41LFml+7fVL.js,51t-JTxfnwL.js,317BC63dC8L.js,11lEMI5MhIL.js,31UsGkeqBUL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js?AUIClients/NavDesktopUberAsset&mx8R1gjd#desktop.language-es.mx.488400-T1.488413-T1.366740-T1, line 671: Script terminated by timeout at:
+d/a<@https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71zzjyvEIHL.js,018jv7vREZL.js,01GoPxz8E9L.js,01eOvPdxG7L.js,71RDRWJQQQL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21rDHgaooIL.js,41LFml+7fVL.js,51t-JTxfnwL.js,317BC63dC8L.js,11lEMI5MhIL.js,31UsGkeqBUL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js?AUIClients/NavDesktopUberAsset&mx8R1gjd#desktop.language-es.mx.488400-T1.488413-T1.366740-T1:671:186
+
+Dynamically enable window occlusion 1
+1694964682284	geckodriver	INFO	Listening on 127.0.0.1:60039
+1694964685335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofileg67DmI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694964686222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694964686438	Marionette	INFO	Listening on port 60055
+WebDriver BiDi listening on ws://127.0.0.1:60040
+Read port: 60055
+1694964686852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60040/devtools/browser/693083d0-a7f0-49bd-b5e3-d2d01621843b
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6648: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 373: Script terminated by timeout at:
+D/<@https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8:373:670
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694965018311	Marionette	INFO	Stopped listening on port 60055
+Dynamically enable window occlusion 1
+1694965147943	geckodriver	INFO	Listening on 127.0.0.1:60597
+1694965150998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofileYUhb3n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694965151535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694965151652	Marionette	INFO	Listening on port 60608
+Read port: 60608
+WebDriver BiDi listening on ws://127.0.0.1:60598
+1694965151862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60598/devtools/browser/42d9bbd2-a6b8-4a53-871f-8a78802056a5
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6757: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=17, line 6462: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=18, line 6598: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=7&crid=ZUED7N5V1JSN&qid=1694965184&sprefix=kitchwen%2Ckitchen%2C517&ref=sr_pg_6, line 6608: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81PUvRgN2sL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=7&crid=ZUED7N5V1JSN&qid=1694965184&sprefix=kitchwen%2Ckitchen%2C517&ref=sr_pg_6, line 364: Script terminated by timeout at:
+D/<@https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=7&crid=ZUED7N5V1JSN&qid=1694965184&sprefix=kitchwen%2Ckitchen%2C517&ref=sr_pg_6:364:670
+
+1694965504746	Marionette	INFO	Stopped listening on port 60608
+Dynamically enable window occlusion 1
+settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694965494381	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694965494497	Marionette	INFO	Listening on port 53254
+WebDriver BiDi listening on ws://127.0.0.1:53245
+Read port: 53254
+1694965494759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53245/devtools/browser/b2c69257-fa38-489c-9257-abd0c1df79fe
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=1, line 5587: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=2, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=3&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=4&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5282: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=5&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=6&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=7, line 5453: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=8&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5292: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=9&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5282: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=10&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=11&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=12&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=13&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=14, line 5438: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=15&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 5428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=15, line 364: Script terminated by timeout at:
+D/<@https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=15:364:670
+
+1694965591715	Marionette	INFO	Stopped listening on port 53254
+Dynamically enable window occlusion 1
+1694965606668	geckodriver	INFO	Listening on 127.0.0.1:53488
+1694965609703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\furka\\AppData\\Local\\Temp\\rust_mozprofileqehm5G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694965610117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694965610228	Marionette	INFO	Listening on port 53499
+WebDriver BiDi listening on ws://127.0.0.1:53489
+Read port: 53499
+1694965610669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53489/devtools/browser/0034c294-039e-4634-ab37-5bcc2607821b
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6601: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=2&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=3&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=4&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6296: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=5&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6434: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965621534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965621537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=6&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965623182	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=7&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965624473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965624476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=8&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=9&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=10&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=11&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=12&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=13&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=14&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=15&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=16&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6394: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=17&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6316: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=18&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=19&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6457: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17518070d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17518070d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=20&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=21&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=22&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510063400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510063400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=23&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=24&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6321: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=25&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=26&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=27&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=28&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965685356	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=29&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=30&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=31&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6457: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f6f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f6f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=32&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=33, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=34&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=35&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=36&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=37&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=38&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=39&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965710967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965710970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=40&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=41&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6341: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=42&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=43&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=44, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+1694965719643	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=45&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965720661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=46&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=47&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=48&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6321: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=49&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6424: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=50&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6471: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=51&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6341: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965733991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=52&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6457: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17514552700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17514552700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=53&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=54, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=55&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=56&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510062500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510062500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=57&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=58&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6296: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=59&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6467: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=60&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6467: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=61&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=62&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=63&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=64&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=65&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6467: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751d2e2f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751d2e2f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=66&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=67&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=68&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=69&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=70&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=71&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=72&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=73&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=74&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=75&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=76&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965782889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=77&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=78&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=79&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=80&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=81&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750e63c100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750e63c100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=82&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=83&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6380: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=84&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=85&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=86&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=87&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=88&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=89&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=90&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=91&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=92&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=93&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751a9a1e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751a9a1e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=94&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=95&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=96&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=97&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6360: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=98&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=99&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=100&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=101&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=102&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=103&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510b5f700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510b5f700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=104&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=105&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6350: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=106&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=107&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=108&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=109&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6292: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=110&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=111&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965867023	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=112&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=113&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=114&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=115&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6463: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965874444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=116&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=117&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6360: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=118&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=119&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6473: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175142f8900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175142f8900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=120&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=121&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=122&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=123&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=124&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6463: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=125, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=126&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6292: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965900939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=127&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=128&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965904026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=129&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=130&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=131&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bcb900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bcb900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=132&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=133&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965918105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17506da5d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17506da5d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=134&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=135&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=136&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=137&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965932543	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965932547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=138&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=139&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965935734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965935736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=140&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=141&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=142&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17511958a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17511958a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=143&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=144&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=145&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6463: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=146&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=147&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=148&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965962883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=149&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=150&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=151&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=152&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694965969962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694965969965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=153&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=154&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=155&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=156&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=157&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=158&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=159&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=160&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f5700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f5700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=161&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=162&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=163&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6350: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=164&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=165&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=166&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f8a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175152f8a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17506dc8d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17506dc8d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=167&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=168&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966019048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=169&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6463: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=170&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=171&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=172&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=173&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=174&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=175&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=176&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=177&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=178&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=179&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6473: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=180&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=181&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=182&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=183&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966044043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=184&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6350: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=185&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6360: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=186&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=187&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=188&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=189&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=190&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966054991	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694966054993	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=191&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=192&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=193&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17514610400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17514610400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=194&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=195&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=196&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6516: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=197&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=198&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6473: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=199&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=200&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=201&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=202&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6424: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bbc600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bbc600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=203&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=204&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966091545	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=205&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6311: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=206&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750e9da700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750e9da700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=207&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=208&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6457: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966105972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=209&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=210&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=211&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966111738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=212&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=213&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=214&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=215&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966118459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bcb900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17512bcb900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=216&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=217&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=218&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=219, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=220&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=221&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6296: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=222&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=223&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966139327	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=224&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=225&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6325: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=226&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=227&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=228&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=229&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966149661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694966149663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=230&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966151193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=231&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6434: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=232&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=233&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=234&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=235&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=236&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=237&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=238&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966164501	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=239&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6296: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=240&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966167818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694966167820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=241&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966169213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=242&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=243&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=244&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966174043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694966174045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=245&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=246&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=247&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=248&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=249&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=250&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=251&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=252&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=253&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=254&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966191682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=255&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6449: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=256&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=257, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=258&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=259&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=260&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=261, line 6434: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=262&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966205071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=263&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6463: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=264&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=265&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=266&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=267&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=268&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6434: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=269&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=270&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=271&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=272&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751462ec00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751462ec00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=273&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=274&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6467: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=275&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=276&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966240254	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=277&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=278&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=279&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=280&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750fb52d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1750fb52d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=281&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=282&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=283&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=284&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=285&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=286&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=287&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966266910	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1694966266916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=288&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6434: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=289&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6306: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=290&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=291&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=292&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=293&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6296: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=294&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=295&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=296&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=297&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=298&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6452: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=299, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=300&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=301&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=302&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=303&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966300394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17511958700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17511958700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=304&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=305&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510b04c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510b04c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=306&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=307&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=308&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=309&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=310&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=311&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6496: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=312&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=313&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=314&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=315&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=316&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=317&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=318&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=319&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6345: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=320&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=321&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=322&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=323&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6335: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=324&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6506: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=325&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=326&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966364247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=327&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966365956	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=328&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=329&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=330&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6473: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=331&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=332&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6481: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=333&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6491: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=334&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17513476a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17513476a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=335&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=336&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=337&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=338&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966394621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=339&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=340&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=341&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=342&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966401489	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=343&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751342a500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=1751342a500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=344&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=345&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=346&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6331: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=347&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=348&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=349&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=350&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=351&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=352&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=353&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=354&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6535: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510d4b100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=17510d4b100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=355&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=356&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=357&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=358&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=359&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=360&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=361&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=362&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=363&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=364&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=365&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=366&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6374: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=367&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=368&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=369&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6374: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=370&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=371&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=372&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=373&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=374&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=375&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6535: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=376&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=377&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=378&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6374: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=379&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175134e9700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 40188, MediaDecoderStateMachine #1] WARNING: Decoder=175134e9700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=380&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=381&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=382&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&page=383&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=384, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=385, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=386, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=387, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=388, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=389, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=390, line 6535: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=391, line 6545: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=392, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=393, line 6520: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=394, line 6545: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=395, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=396, line 6374: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=397, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=398, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=399, line 6374: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=400, line 6530: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694966510101	Marionette	INFO	Stopped listening on port 53499
+JavaScript warning: https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=400, line 96: Script terminated by timeout at:
+X/</<@https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=400:96:431
+fa@https://www.amazon.com.mx/s?k=kitchen&i=kitchen&crid=ZUED7N5V1JSN&sprefix=kitchwen%2Ckitchen%2C517&ref=nb_sb_ss_ts-doa-p_1_8&page=400:99:179
+
+Dynamically enable window occlusion 1
